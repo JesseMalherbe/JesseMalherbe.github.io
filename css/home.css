@@ -1,0 +1,9 @@
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url('../img/achtergrond.avif');
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+}
