@@ -54,8 +54,13 @@ section {
     border-radius: 16px;
     margin-bottom: 18px;
 }
-.project-card h4 {
+.project-card h3,
+.project-card h4,
+.project-card p {
     color: white;
+}
+.project-card h3,
+.project-card h4 {
     margin-bottom: 12px;
 }
 
@@ -113,5 +118,5 @@ section {
     }
 
     .social-icons a:hover {
-      color: var(--red);
+      color: red;
     }
